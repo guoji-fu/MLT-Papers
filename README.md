@@ -76,3 +76,8 @@ Awesome papers in machine learning theory.
     - *Yaoyu Zhang, Zhi-Qin John Xu, Tao Luo, Zheng Ma.*
     - [paper](https://arxiv.org/pdf/1905.10264.pdf)
     
+1. **Training Two-Layer ReLU Networks with Gradient Descent is Inconsistent.**
+    - arXiv 2020.
+    - *David Holzmuller, Ingo Steinwart.*
+    - [paper](https://arxiv.org/pdf/2002.04861.pdf)
+    
