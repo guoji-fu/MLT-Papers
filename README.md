@@ -66,6 +66,11 @@ Awesome papers in machine learning theory.
     - *Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals.*
     - [paper](https://arxiv.org/pdf/1611.03530.pdf)
     
+1. **Convergence Analysis of Two-layer Neural Networks with ReLU Activation.**
+    - arXiv 2017.
+    - *Yuanzhi Li, Yang Yuan.*
+    - [paper](https://arxiv.org/pdf/1705.09886.pdf)
+    
 1. **To Understand Deep Learning We Need to Understand Kernel Learning.**
     - ICML 2018.
     - *Mikhail Belkin, Siyuan Ma, Soumik Mandal.*
@@ -75,6 +80,11 @@ Awesome papers in machine learning theory.
     - arXiv 2019.
     - *Yaoyu Zhang, Zhi-Qin John Xu, Tao Luo, Zheng Ma.*
     - [paper](https://arxiv.org/pdf/1905.10264.pdf)
+    
+1. **Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers.**
+    - NIPS 2019.
+    - *Zeyuan Allen-Zhu, Yuanzhi Li, Yingyu Liang.*
+    - [paper](https://arxiv.org/pdf/1811.04918.pdf)
     
 1. **Training Two-Layer ReLU Networks with Gradient Descent is Inconsistent.**
     - arXiv 2020.
