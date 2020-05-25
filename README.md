@@ -31,6 +31,11 @@ Awesome papers in machine learning theory.
     - *Stephane Boucheron, Olivier Bousquet, Gabor Lugosi.*
     - [paper](https://www.esaim-ps.org/articles/ps/pdf/2005/01/ps0420.pdf)
     
+1. **Rademacher Complexity Bounds for Non-I.I.D. Processes.**
+    - NIPS 2008.
+    - *Mehryar Mohri, Afshin Rostamizadeh.*
+    - [paper](https://papers.nips.cc/paper/3489-rademacher-complexity-bounds-for-non-iid-processes.pdf)
+
 
 <a name="kernel-regularization" />
 
