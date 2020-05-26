@@ -26,6 +26,11 @@ Awesome papers in machine learning theory.
     - *Olivier Bousquet, Andre Elisseeff.*
     - [paper](http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf)
     
+1. **Statistical Behavior and Consistency of Classification Methods based on Convex Risk Minimization.**
+    - Annals of Statistics 2004.
+    - *Tong Zhang.*
+    - [paper](https://projecteuclid.org/download/pdf_1/euclid.aos/1079120130)
+    
 1. **Theory of Classification: A Survey of Some Recent Advances.**
     - ESAIM: Probability and Statistics 2005.
     - *Stephane Boucheron, Olivier Bousquet, Gabor Lugosi.*
