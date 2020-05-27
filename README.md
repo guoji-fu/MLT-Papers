@@ -18,7 +18,7 @@ Awesome papers in machine learning theory.
 
 1. **A Generalized Representer Theorem.**
     - COLT 2001.
-    - *Bernhard Sch¨olkopf, Ralf Herbrich, Alex J. Smola.*
+    - *Bernhard Scholkopf, Ralf Herbrich, Alex J. Smola.*
     - [paper](https://www.cise.ufl.edu/class/cap6617fa15/Readings/SchHerSmo01.pdf)
 
 1. **Stability and Generalization.**
