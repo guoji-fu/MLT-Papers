@@ -36,6 +36,11 @@ Awesome papers in machine learning theory.
     - *Stephane Boucheron, Olivier Bousquet, Gabor Lugosi.*
     - [paper](https://www.esaim-ps.org/articles/ps/pdf/2005/01/ps0420.pdf)
     
+1. **Learning Theory: Stability is Sufficient for Generalization and Necessary and Sufficient for Consistency of Empirical Risk Minimization.**
+    - Advances in Computational Mathematics 2006.
+    - *Sayan Mukherjee, Partha Niyogi, Tomaso Poggio, Ryan Rifkin.*
+    - [paper](https://link.springer.com/content/pdf/10.1007/s10444-004-7634-z.pdf)
+    
 1. **Rademacher Complexity Bounds for Non-I.I.D. Processes.**
     - NIPS 2008.
     - *Mehryar Mohri, Afshin Rostamizadeh.*
