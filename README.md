@@ -91,6 +91,11 @@ Awesome papers in machine learning theory.
     - *Mikhail Belkin, Siyuan Ma, Soumik Mandal.*
     - [paper](https://arxiv.org/pdf/1802.01396.pdf)
     
+1. **The Vapnik–Chervonenkis Dimension of Graph and Recursive Neural Networks.**
+    - ML 2018.
+    - *Franco Scarselli, Ah Chung Tsoi, Markus Hagenbuchner.*
+    - [paper](https://www.sciencedirect.com/science/article/pii/S0893608018302363)
+    
 1. **Explicitizing an Implicit Bias of the Frequency Principle in Two-layer Neural Networks.**
     - arXiv 2019.
     - *Yaoyu Zhang, Zhi-Qin John Xu, Tao Luo, Zheng Ma.*
