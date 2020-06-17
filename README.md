@@ -61,6 +61,16 @@ Awesome papers in machine learning theory.
     - *Olivier Bousquet, Andre Elisseeff.*
     - [paper](http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf)
     
+1. **Almost-Everywhere Algorithmic Stability and Generalization Error.**
+    - UAI 2002.
+    - *Samuel Kutin, Partha Niyogi.*
+    - [paper](https://arxiv.org/pdf/1301.0579.pdf)
+    
+1. **PAC-Bayes & Margins.**
+    - NIPS 2003.
+    - *John Langford, John Shawe-Taylor.*
+    - [paper](https://papers.nips.cc/paper/2317-pac-bayes-margins.pdf)
+    
 1. **Statistical Behavior and Consistency of Classification Methods based on Convex Risk Minimization.**
     - Annals of Statistics 2004.
     - *Tong Zhang.*
@@ -75,6 +85,11 @@ Awesome papers in machine learning theory.
     - Advances in Computational Mathematics 2006.
     - *Sayan Mukherjee, Partha Niyogi, Tomaso Poggio, Ryan Rifkin.*
     - [paper](https://link.springer.com/content/pdf/10.1007/s10444-004-7634-z.pdf)
+    
+1. **Tutorial on Practical Prediction Theory for Classification.**
+    - JMLR 2006.
+    - *John Langford.*
+    - [paper](http://www.jmlr.org/papers/volume6/langford05a/langford05a.pdf)
     
 1. **Rademacher Complexity Bounds for Non-I.I.D. Processes.**
     - NIPS 2008.
@@ -140,6 +155,12 @@ Awesome papers in machine learning theory.
     - arXiv 2017.
     - *Yuanzhi Li, Yang Yuan.*
     - [paper](https://arxiv.org/pdf/1705.09886.pdf)
+    
+1. **PAC-Bayesian Margin Bounds for Convolutional Neural Networks.**
+    - arXiv 2018
+    - *Konstantinos Pitas, Mike Davies, Pierre Vandergheynst.*
+    - [paper](https://arxiv.org/pdf/1801.00171.pdf)
+    - [code](https://github.com/konstantinos-p/PAC_Bayesian_Generalization)
     
 1. **To Understand Deep Learning We Need to Understand Kernel Learning.**
     - ICML 2018.
