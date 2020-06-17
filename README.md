@@ -11,6 +11,31 @@ Awesome papers in machine learning theory.
 
 ## Learning Theory
 
+1. **Learnability and the Vapnik-Chervonenkis Dimension.**
+    - Journal of the Association for Computing Machinery 1989.
+    - *Anselm Blumer, Andrzej Ehrenfeucht, David Haussler, Manfred M. Warmuth.*
+    - [paper](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf)
+    
+1. **Sample Compression, Learnability, and the Vapnik-Chervonenkis Dimension.**
+    - Machine Learning 1995.
+    - *Sally Floyd, Manfred Warmuth.*
+    - [paper](https://link.springer.com/content/pdf/10.1023/A:1022660318680.pdf)
+
+1. **Characterizations of Learnability for Classes of ${0, \dots, n}$-valued Functions.**
+    - Journal of Computer and System Sciences 1995.
+    - *Shai Ben-David, Nicolo Cesa-Bianchi, David Haussler, Philip M. Long.*
+    - [paper](http://phillong.info/publications/chars.pdf)
+
+1. **Scale-Sensitive Dimensions, Uniform Convergence, and Learnability.**
+    - JACM 1997.
+    - *Noga Alon, Shai Ben-David, Nicolo Cesa-Bianchi, David Haussler.*
+    - [paper](http://cesa-bianchi.di.unimi.it/Pubblicazioni/jacm-97b.pdf)
+    
+1. **Regret Bounds for Prediction Problems.**
+    - COLT 1999.
+    - *Geoffrey J. Gordon.*
+    - [paper](https://dl.acm.org/doi/pdf/10.1145/307400.307410)
+
 1. **Algorithmic Stability and Generalization Performance.**
     - NIPS 2001.
     - *Olivier Bousquet, Andre Elisseeff.*
@@ -20,6 +45,16 @@ Awesome papers in machine learning theory.
     - COLT 2001.
     - *Bernhard Scholkopf, Ralf Herbrich, Alex J. Smola.*
     - [paper](https://www.cise.ufl.edu/class/cap6617fa15/Readings/SchHerSmo01.pdf)
+    
+1. **Concentration Inequalities and Empirical Processes Theory Applied to the Analysis of Learning Algorithms.**
+    - Phd Thesis 2002.
+    - *Olivier Bousquet.*
+    - [paper](https://www.researchgate.net/publication/239060748_Concentration_inequalities_and_empirical_processes_theory_applied_to_the_analysis_of_learning_algorithms)
+    
+1. **Rademacher and Gaussian Complexities: Risk Bounds and Structural Results.**
+    - JMLR 2002.
+    - *Peter L. Bartlett, Shahar Mendelson.*
+    - [paper](http://www.jmlr.org/papers/volume3/bartlett02a/bartlett02a.pdf)
 
 1. **Stability and Generalization.**
     - JMLR 2002.
@@ -45,6 +80,26 @@ Awesome papers in machine learning theory.
     - NIPS 2008.
     - *Mehryar Mohri, Afshin Rostamizadeh.*
     - [paper](https://papers.nips.cc/paper/3489-rademacher-complexity-bounds-for-non-iid-processes.pdf)
+    
+1. **On the Complexity of Linear Prediction: Risk Bounds, Margin Bounds, and Regularization.**
+    - NIPS 2008.
+    - *Sham M. Kakade, Karthik Sridharan, and Ambuj Tewari.*
+    - [paper](https://www.cs.cornell.edu/~sridharan/rad-paper.pdf)
+    
+1. **Agnostic Online Learning.**
+    - COLT 2009.
+    - *Shai Ben-David, David Pal, Shai Shalev-Shwartz.*
+    - [paper](https://www.cs.huji.ac.il/~shais/papers/BendavidPalShalevtech09.pdf)
+    
+1. **Learnability, Stability and Uniform Convergence.**
+    - JMLR 2010.
+    - *Shai Shalev-Shwartz, Ohad Shamir, Nathan Srebro, Karthik Sridharan.*
+    - [paper](http://jmlr.csail.mit.edu/papers/volume11/shalev-shwartz10a/shalev-shwartz10a.pdf)
+    
+1. **Multiclass Learnability and the ERM Principle.**
+    - COLT 2011.
+    - *Amit Daniely, Sivan Sabato, Shai Ben-David, Shai Shalev-Shwartz.*
+    - [paper](http://proceedings.mlr.press/v19/daniely11a/daniely11a.pdf)
 
 
 <a name="kernel-regularization" />
