@@ -115,6 +115,21 @@ Awesome papers in machine learning theory.
     - COLT 2011.
     - *Amit Daniely, Sivan Sabato, Shai Ben-David, Shai Shalev-Shwartz.*
     - [paper](http://proceedings.mlr.press/v19/daniely11a/daniely11a.pdf)
+    
+1. **Algorithmic Stability and Hypothesis Complexity.**
+    - ICML 2017.
+    - *Tongliang Liu, Gábor Lugosi, Gergely Neu, Dacheng Tao.*
+    - [paper](https://arxiv.org/pdf/1702.08712.pdf)
+    
+1. **Stability and Generalization of Learning Algorithms that Converge to Global Optima.**
+    - ICML 2018.
+    - *Zachary Charles, Dimitris Papailiopoulos.*
+    - [paper](https://arxiv.org/pdf/1710.08402.pdf)
+    
+1. **Generalization Bounds for Uniformly Stable Algorithms.**
+    - NIPS 2018.
+    - *Vitaly Feldman, Jan Vondrak.*
+    - [paper](https://arxiv.org/pdf/1812.09859.pdf)
 
 
 <a name="kernel-regularization" />
