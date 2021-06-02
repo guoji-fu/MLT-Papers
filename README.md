@@ -2,10 +2,21 @@
 Awesome papers in machine learning theory.
 
 ## Contents
+- [Books](#books)
 - [Learning Theory](#learning-theory)
 - [Kernel Methods and Regularization](#kernel-regularization)
 - [Theory of Neural Networks](#nn-theory)
 
+
+<a name="books" />
+
+## Books
+
+1. **The Modern Mathematics of Deep Learning.**
+    - arXiv 2021.
+    - *Julius Berner, Philipp Grohs, Gitta Kutyniok, Philipp Petersen.*
+    - [book](https://arxiv.org/pdf/2105.04026.pdf)
+    
 
 <a name="learning-theory" />
 
