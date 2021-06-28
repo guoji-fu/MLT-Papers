@@ -158,21 +158,26 @@ Awesome papers in machine learning theory.
     - [paper](https://arxiv.org/pdf/1902.05404.pdf)
     
     
- <a name="nn-theory" />
+<a name="nn-theory" />
  
- ## Theory of Neural Networks
- 
- 1. **Strong Universal Consistency of Neural Network Classifiers.**
+## Theory of Neural Networks
+
+1. **Regularization Algorithms for Learning that are Equivalent to Multilayer Networks.**
+    - Science 1990.
+    - *T. Poggio, F. Girosi.*
+    - [paper](http://cbcl.mit.edu/people/poggio/journals/poggio-girosi-science-1990.pdf)
+    
+1. **Strong Universal Consistency of Neural Network Classifiers.**
     - IEEE Transactions on Information Theory 1993.
     - *AndrAs Farag, GAbor Lugosi.*
     - [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=243433)
  
- 1. **For Valid Generalization, the Size of the Weights is More Important Than the Size of the Network.**
+1. **For Valid Generalization, the Size of the Weights is More Important Than the Size of the Network.**
     - NIPS 1996.
     - *Peter L. Bartlett.*
     - [paper](https://papers.nips.cc/paper/1996/file/fb2fcd534b0ff3bbed73cc51df620323-Paper.pdf)
     
- 1. **Benefits of Depth in Neural Networks.**
+1. **Benefits of Depth in Neural Networks.**
     - COLT 2016.
     - *Matus Telgarsky.*
     - [paper](https://arxiv.org/pdf/1602.04485.pdf)
