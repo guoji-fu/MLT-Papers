@@ -166,8 +166,13 @@ Awesome papers in machine learning theory.
     - IEEE Transactions on Information Theory 1993.
     - *AndrAs Farag, GAbor Lugosi.*
     - [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=243433)
+ 
+ 1. **For Valid Generalization, the Size of the Weights is More Important Than the Size of the Network.**
+    - NIPS 1996.
+    - *Peter L. Bartlett.*
+    - [paper](https://papers.nips.cc/paper/1996/file/fb2fcd534b0ff3bbed73cc51df620323-Paper.pdf)
     
-1. **Benefits of Depth in Neural Networks.**
+ 1. **Benefits of Depth in Neural Networks.**
     - COLT 2016.
     - *Matus Telgarsky.*
     - [paper](https://arxiv.org/pdf/1602.04485.pdf)
