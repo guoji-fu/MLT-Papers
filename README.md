@@ -47,6 +47,11 @@ Awesome papers in machine learning theory.
     - *Geoffrey J. Gordon.*
     - [paper](https://dl.acm.org/doi/pdf/10.1145/307400.307410)
 
+1. **A Study About Algorithmic Stability and Their Relation to Generalization Performances.**
+    - Technical Report 2000.
+    - *Andre Elissee.*
+    - [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.4615&rep=rep1&type=pdf)
+
 1. **Algorithmic Stability and Generalization Performance.**
     - NIPS 2001.
     - *Olivier Bousquet, Andre Elisseeff.*
