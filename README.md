@@ -6,8 +6,8 @@ Awesome papers in machine learning theory.
 - [Learning Theory](#learning-theory)
 - [Kernel Methods and Regularization](#kernel-regularization)
 - [Theory of Neural Networks](#nn-theory)
-    - [Surveys in Neural Network Theory](nn-survey)
-    - [Papers in Neural Network Theory](nn-paper)
+    - [Surveys in Neural Network Theory](#nn-survey)
+    - [Papers in Neural Network Theory](#nn-paper)
 
 
 <a name="books" />
