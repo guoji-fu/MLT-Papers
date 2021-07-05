@@ -3,7 +3,6 @@ Awesome papers in machine learning theory.
 
 ## Contents
 - [Books](#books)
-- [Survey](#survey)
 - [Learning Theory](#learning-theory)
 - [Kernel Methods and Regularization](#kernel-regularization)
 - [Theory of Neural Networks](#nn-theory)
@@ -242,7 +241,7 @@ Awesome papers in machine learning theory.
 
 1. **Deep Learning Generalizes Because the Parameter-Function Map is Biased Towards Simple Functions.**
     - ICLR 2019.
-    - *Konstantinos Pitas, Pierre Vandergheynst, Mike Davies.*
+    - *Guillermo Valle Pérez, Chico Q. Camargo, Ard A. Louis.*
     - [paper](https://arxiv.org/pdf/1805.08522.pdf)
    
 1. **Training Two-Layer ReLU Networks with Gradient Descent is Inconsistent.**
