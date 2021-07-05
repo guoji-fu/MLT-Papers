@@ -3,9 +3,12 @@ Awesome papers in machine learning theory.
 
 ## Contents
 - [Books](#books)
+- [Survey](#survey)
 - [Learning Theory](#learning-theory)
 - [Kernel Methods and Regularization](#kernel-regularization)
 - [Theory of Neural Networks](#nn-theory)
+    - [Surveys in Neural Network Theory](nn-survey)
+    - [Papers in Neural Network Theory](nn-paper)
 
 
 <a name="books" />
@@ -167,6 +170,20 @@ Awesome papers in machine learning theory.
  
 ## Theory of Neural Networks
 
+<a name="nn-survey" />
+
+### Surveys in Neural Network Theory
+
+1. **Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective.**
+    - arXiv 2019.
+    - *Guan-Horng Liu, Evangelos A. Theodorou.*
+    - [paper](https://arxiv.org/pdf/1908.10920.pdf)
+
+
+<a name="nn-paper" />
+
+### Papers in Neural Network Theory
+
 1. **Regularization Algorithms for Learning that are Equivalent to Multilayer Networks.**
     - Science 1990.
     - *T. Poggio, F. Girosi.*
@@ -219,12 +236,22 @@ Awesome papers in machine learning theory.
     - [paper](https://arxiv.org/pdf/1905.10264.pdf)
     
 1. **Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers.**
-    - NIPS 2019.
+    - NeurIPS 2019.
     - *Zeyuan Allen-Zhu, Yuanzhi Li, Yingyu Liang.*
     - [paper](https://arxiv.org/pdf/1811.04918.pdf)
-    
+
+1. **Deep Learning Generalizes Because the Parameter-Function Map is Biased Towards Simple Functions.**
+    - ICLR 2019.
+    - *Konstantinos Pitas, Pierre Vandergheynst, Mike Davies.*
+    - [paper](https://arxiv.org/pdf/1805.08522.pdf)
+   
 1. **Training Two-Layer ReLU Networks with Gradient Descent is Inconsistent.**
     - arXiv 2020.
     - *David Holzmuller, Ingo Steinwart.*
     - [paper](https://arxiv.org/pdf/2002.04861.pdf)
-    
+
+1. **On the Distance Between Two Neural Networks and the Stability of Learning.**
+    - Neurips 2021.
+    - *Jeremy Bernstein, Arash Vahdat, Yisong Yue, Ming-Yu Liu.*
+    - [paper](https://arxiv.org/pdf/2002.03432.pdf)
+
