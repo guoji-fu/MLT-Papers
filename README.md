@@ -178,6 +178,11 @@ Awesome papers in machine learning theory.
     - *Guan-Horng Liu, Evangelos A. Theodorou.*
     - [paper](https://arxiv.org/pdf/1908.10920.pdf)
 
+1. **Scaling Limits of Wide Neural Networks with Weight Sharing: Gaussian Process Behavior, Gradient Independence, and Neural Tangent Kernel Derivation.**
+    - arXiv 2019.
+    - *Greg Yang*
+    - [paper](https://arxiv.org/pdf/1902.04760.pdf)
+
 
 <a name="nn-paper" />
 
@@ -212,6 +217,11 @@ Awesome papers in machine learning theory.
     - arXiv 2017.
     - *Yuanzhi Li, Yang Yuan.*
     - [paper](https://arxiv.org/pdf/1705.09886.pdf)
+
+1. **Neural Tangent Kernel: Convergence and Generalization in Neural Networks.**
+    - NeurIPS 2018.
+    - *Arthur Jacot, Franck Gabriel, Clément Hongler.*
+    - [paper](https://arxiv.org/pdf/1806.07572.pdf)
     
 1. **PAC-Bayesian Margin Bounds for Convolutional Neural Networks.**
     - arXiv 2018
