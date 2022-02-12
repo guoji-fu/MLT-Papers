@@ -162,7 +162,22 @@ Awesome papers in machine learning theory & deep learning theory.
     - *Vitaly Feldman, Jan Vondrak.*
     - [paper](https://arxiv.org/pdf/1812.09859.pdf)
     
-    
+1. **Reconciling Modern Machine Learning Practice and the Bias-Variance Trade-Off.**
+    - arXiv 2019.
+    - *Mikhail Belkin, Daniel Hsu, Siyuan Ma, Soumik Mandal.*
+    - [paper](https://arxiv.org/pdf/1812.11118.pdf)
+
+1. **Sharper Bounds for Uniformly Stable Algorithms.**
+    - COLT 2020.
+    - *Olivier Bousquet, Yegor Klochkov, Nikita Zhivotovskiy.*
+    - [paper](https://arxiv.org/pdf/1910.07833.pdf)
+
+1. **Risk Bounds for Over-parameterized Maximum Margin Classification on Sub-Gaussian Mixtures.**
+    - NeurIPS 2021.
+    - *Yuan Cao, Quanquan Gu, Mikhail Belkin.*
+    - [paper](https://arxiv.org/pdf/2104.13628.pdf)
+   
+
 <a name="dl-theory" />
  
 ## Deep Learning Theory
@@ -272,3 +287,12 @@ Awesome papers in machine learning theory & deep learning theory.
     - *Jeremy Bernstein, Arash Vahdat, Yisong Yue, Ming-Yu Liu.*
     - [paper](https://arxiv.org/pdf/2002.03432.pdf)
 
+1. **Generalization Performance of Empirical Risk Minimization on Over-parameterized Deep ReLU Nets.**
+    - arXiv 2021.
+    - *Shao-Bo Lin, Yao Wang, Ding-Xuan Zhou.*
+    - [paper](https://arxiv.org/pdf/2111.14039.pdf)
+
+1. **Learnability of Convolutional Neural Networks for Infinite Dimensional Input via Mixed and Anisotropic Smoothness.**
+    - ICLR 2022.
+    - *Sho Okumoto, Taiji Suzuki.*
+    - [paper](https://openreview.net/pdf?id=dgxFTxuJ50e)
