@@ -8,7 +8,7 @@ Awesome papers in machine learning theory & deep learning theory.
 - [Deep Learning Theory](#dl-theory)
     - [DL Theory Books](dl-book)
     - [DL Theory Surveys](dl-survey)
-    - [DL Theory papers](dl-paper)
+    - [DL Theory Papers](dl-paper)
 
 
 <a name="books" />
