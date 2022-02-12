@@ -18,17 +18,17 @@ Awesome papers in machine learning theory & deep learning theory.
 <a name="mt-book" />
 
 1. **Understanding Machine Learning: From Theory to Algorithms.**
-    - 2014.
+    - Year 2014.
     - *Shai Shalev-Shwartz, Shai Ben-David.*
     - [book](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
 1. **Foundations of Machine Learning.**
-    - 2018.
+    - Year 2018.
     - *Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.*
     - [book](https://mitpress.ublish.com/ereader/7093/?preview=#page/Cover)
 
 1. **Learning Theory from First Principles.**
-    - 2021.
+    - Year 2021.
     - *Francis Bach.*
     - [book](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
     
