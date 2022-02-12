@@ -1,28 +1,41 @@
 # MLT-Papers
-Awesome papers in machine learning theory.
+Awesome papers in machine learning theory & deep learning theory.
 
 ## Contents
-- [Books](#books)
-- [Learning Theory](#learning-theory)
-- [Kernel Methods and Regularization](#kernel-regularization)
-- [Theory of Neural Networks](#nn-theory)
-    - [Surveys in Neural Network Theory](#nn-survey)
-    - [Papers in Neural Network Theory](#nn-paper)
+- [Machine Learning Theory](#ml-theory)
+    - [ML Theory Books](#ml-book)
+    - [ML Theory Papers](#ml-paper)
+- [Deep Learning Theory](#dl-theory)
+    - [DL Theory Books](dl-book)
+    - [DL Theory Surveys](dl-survey)
+    - [DL Theory papers](dl-paper)
 
 
 <a name="books" />
 
-## Books
+## ML Theory Books
 
-1. **The Modern Mathematics of Deep Learning.**
-    - arXiv 2021.
-    - *Julius Berner, Philipp Grohs, Gitta Kutyniok, Philipp Petersen.*
-    - [book](https://arxiv.org/pdf/2105.04026.pdf)
+<a name="mt-book" />
+
+1. **Understanding Machine Learning: From Theory to Algorithms.**
+    - 2014.
+    - *Shai Shalev-Shwartz, Shai Ben-David.*
+    - [book](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+
+1. **Foundations of Machine Learning.**
+    - 2018.
+    - *Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.*
+    - [book](https://mitpress.ublish.com/ereader/7093/?preview=#page/Cover)
+
+1. **Learning Theory from First Principles.**
+    - 2021.
+    - *Francis Bach.*
+    - [book](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
     
 
-<a name="learning-theory" />
+<a name="ml-theory" />
 
-## Learning Theory
+## Machine Learning Theory
 
 1. **Learnability and the Vapnik-Chervonenkis Dimension.**
     - Journal of the Association for Computing Machinery 1989.
@@ -148,30 +161,25 @@ Awesome papers in machine learning theory.
     - NIPS 2018.
     - *Vitaly Feldman, Jan Vondrak.*
     - [paper](https://arxiv.org/pdf/1812.09859.pdf)
-
-
-<a name="kernel-regularization" />
-
-## Kernel Methods and Regularization
-
-1. **Think Globally, Fit Locally Under the Manifold Setup: Asymptotic Analysis of Locally Linear Embedding.**
-    - Annals of Statistics 2018.
-    - *Hau-Tieng Wu, Nan Wu.*
-    - [paper](https://projecteuclid.org/download/pdfview_1/euclid.aos/1536631291)
-
-1. **Convergence Analysis of Tikhonov Regularization for Non-Linear Statistical Inverse Learning Problems.**
-    - arXiv 2019.
-    - *Abhishake Rastogi, Gilles Blanchard, Peter Mathé.*
-    - [paper](https://arxiv.org/pdf/1902.05404.pdf)
     
     
-<a name="nn-theory" />
+<a name="dl-theory" />
  
-## Theory of Neural Networks
+## Deep Learning Theory
 
-<a name="nn-survey" />
+### DL Theory Books
 
-### Surveys in Neural Network Theory
+<a name="dl-book" />
+
+1. **The Modern Mathematics of Deep Learning.**
+    - arXiv 2021.
+    - *Julius Berner, Philipp Grohs, Gitta Kutyniok, Philipp Petersen.*
+    - [book](https://arxiv.org/pdf/2105.04026.pdf)
+
+
+<a name="dl-survey" />
+
+### DL Theory Surveys
 
 1. **Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective.**
     - arXiv 2019.
@@ -184,9 +192,9 @@ Awesome papers in machine learning theory.
     - [paper](https://arxiv.org/pdf/1902.04760.pdf)
 
 
-<a name="nn-paper" />
+<a name="dl-paper" />
 
-### Papers in Neural Network Theory
+### DL Theory Papers
 
 1. **Regularization Algorithms for Learning that are Equivalent to Multilayer Networks.**
     - Science 1990.
